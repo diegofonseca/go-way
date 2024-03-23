@@ -1,4 +1,4 @@
-# Live reaload + Gin (Api) + Mysql
+# Live reload + Gin (Api) + Mysql
 
 # Run
 ```bash

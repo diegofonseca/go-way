@@ -1,12 +1,6 @@
-# Live reload + Gin (Api) + Mysql
+# Live reload + Gin (Api) + Gorm (ORM)
 
 # Run
 ```bash
 $ docker compose up -d
-```
-
-# Database
-```bash
-$ docker compose exec -it mysql bash
-mysql# mysql -ugo -pgo go < /database/db.sql
 ```

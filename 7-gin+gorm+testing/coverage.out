@@ -1,0 +1,24 @@
+mode: set
+github.com/diegofonseca/go-way/utils/db.utils.go:10.34,16.16 3 1
+github.com/diegofonseca/go-way/utils/db.utils.go:16.16,18.3 1 1
+github.com/diegofonseca/go-way/utils/db.utils.go:20.2,22.51 2 1
+github.com/diegofonseca/go-way/main.go:9.13,22.2 8 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:11.28,14.16 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:14.16,19.3 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:21.2,27.4 3 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:30.29,33.16 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:33.16,37.3 1 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:39.2,47.4 4 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:50.27,53.16 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:53.16,59.3 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:61.2,65.17 3 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:65.17,70.3 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:72.2,74.4 1 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:77.29,80.16 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:80.16,84.3 1 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:86.2,96.4 5 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:99.29,102.16 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:102.16,106.3 1 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:108.2,112.17 3 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:112.17,117.3 2 1
+github.com/diegofonseca/go-way/controllers/car.controller.go:119.2,121.39 2 1
